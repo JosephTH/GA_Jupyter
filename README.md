@@ -1,2 +1,2 @@
 # GA_Jupyter
-This is for automating to get a data from GA to local.
+This is designed to automate getting a custom funnel data from GA to local.
